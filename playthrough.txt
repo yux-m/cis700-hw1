@@ -1,0 +1,16 @@
+up
+untie
+search boxes
+search belongings
+search furniture
+untie
+up
+south
+north
+north
+south
+east
+put on
+west
+north
+out
